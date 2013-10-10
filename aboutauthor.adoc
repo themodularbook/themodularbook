@@ -1,0 +1,7 @@
+[discrete]
+== About the Author
+
+Sheikh Mohammad Sajid is a software consultant guiding small and large companies in implementing modular architecture
+
+<<<
+

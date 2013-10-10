@@ -1,0 +1,6 @@
+= The Modular Book
+Sheikh Mohammad Sajid
+v1.0-alpha, September 2013
+:toc: right
+:toc-placement!:
+

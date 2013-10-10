@@ -1,0 +1,21 @@
+== Evolution of Programming Paradigm
+
+=== Procedural
+'''
+
+
+
+=== Functional
+'''
+
+
+
+=== Logic
+'''
+
+
+
+=== Object Oriented
+'''
+
+ 
