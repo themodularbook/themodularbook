@@ -1,18 +1,21 @@
 include::title.adoc[]
 
-include::copyright.adoc[]
-
 include::dedication.adoc[]
+
+include::preface.adoc[]
+
+include::copyright.adoc[]
 
 include::aboutauthor.adoc[]
 
 include::credits.adoc[]
 
-include::acknowledgements.adoc[]
+include::acknowledgement.adoc[]
 
-include::preface.adoc[]
+include::toc.adoc[]
 
 include::introduction.adoc[]
 
 include::evolution.adoc[]
 
+include::index.adoc[]

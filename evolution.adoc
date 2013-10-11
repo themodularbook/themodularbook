@@ -1,21 +1,21 @@
 == Evolution of Programming Paradigm
 
 === Procedural
-'''
+Procedural ((programming)) uses procedures or functions to structure code.
 
 
 
 === Functional
-'''
+Section Pending
 
 
 
 === Logic
-'''
+Section Pending
 
 
 
 === Object Oriented
-'''
+Section Pending
 
  

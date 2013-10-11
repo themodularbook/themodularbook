@@ -1,8 +1,7 @@
-[discrete]
+[preface]
 == Preface
+Section Pending
 
 
-toc::[]
 
 <<<
-

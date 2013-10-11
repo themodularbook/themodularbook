@@ -1,7 +1,5 @@
-[discrete]
+[dedication]
 == Dedication
-
 This book is dedicated to the designer of this Universe and beyond which is the only example of a perfect modular system.
 
 <<<
-
