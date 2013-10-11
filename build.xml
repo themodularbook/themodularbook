@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="themodularbook" default="build-html">
+	<description description="A book about modular architecture">
+	</description>
+	<property name="output" location="output" />
+
+	<target name="init">
+		<tstamp />
+		<mkdir dir="${output}" />
+	</target>
+
+	<target name="build-html" depends="init" description="Generate HTML format">
+		<exec dir="." executable="asciidoctor" os="${os.name}">
+			<arg line="-a toc -a copycss --doctype book ./themodularbook.adoc -D ./output" />
+		</exec>
+	</target>
+
+	<target name="build-docbook" depends="init" description="Generate DocBook format">
+		<exec dir="." executable="asciidoctor" os="${os.name}">
+			<arg line="-a toc -b docbook --doctype book ./themodularbook.adoc -D ./output" />
+		</exec>
+	</target>
+
+	<target name="build-pdf" depends="build-docbook" description="Generate PDF format">
+		<exec dir="." executable="a2x" os="${os.name}">
+			<arg line="--verbose -f pdf -d book ./output/themodularbook.xml -D ./output" />
+		</exec>
+		<delete file="./output/themodularbook.xml" />
+	</target>
+
+	<target name="build-epub" depends="build-docbook" description="Generate EPUB format">
+		<exec dir="." executable="a2x" os="${os.name}">
+			<arg line="--verbose -f epub -d book ./output/themodularbook.xml -D ./output" />
+		</exec>
+		<delete file="./output/themodularbook.xml" />
+	</target>
+
+	<target name="all">
+		<antcall target="build-pdf" />
+		<antcall target="build-epub" />
+		<antcall target="build-docbook" />
+		<antcall target="build-html" />
+	</target>
+
+	<target name="clean">
+		<delete dir="${output}" />
+	</target>
+</project>
