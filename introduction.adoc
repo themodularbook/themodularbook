@@ -1,6 +1,5 @@
 == Introduction
-[sidebar]
-jjj
+Section Pending
 
 === Whom This Book Is For
 Section Pending

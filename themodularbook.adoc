@@ -18,4 +18,10 @@ include::introduction.adoc[]
 
 include::evolution.adoc[]
 
+include::history.adoc[]
+
+include::proposition.adoc[]
+
+include::overview.adoc[]
+
 include::index.adoc[]
