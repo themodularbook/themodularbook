@@ -24,4 +24,6 @@ include::proposition.adoc[]
 
 include::overview.adoc[]
 
+include::settingup.adoc[]
+
 include::index.adoc[]

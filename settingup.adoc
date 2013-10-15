@@ -1,0 +1,12 @@
+== Setting up the environment
+Section Pending
+
+=== Using Apache Felix
+Section Pending
+
+=== Using Eclipse Equinox
+Section Pending
+
+=== Using Knoplerfish
+Section Pending
+
