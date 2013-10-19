@@ -1,12 +1,34 @@
 == Setting up the environment
+[discrete]
+=== MANIFEST.MF
+Bundle-Name: Setting up the environment +
+Bundle-SymbolicName: org.greenscape.modularbook.settingup +
+Bundle-Version: 0.0.1 +
+
+
+=== Runtime environment
 Section Pending
 
-=== Using Apache Felix
+==== Using Apache Felix
 Section Pending
 
-=== Using Eclipse Equinox
+==== Using Eclipse Equinox
 Section Pending
 
-=== Using Knoplerfish
+==== Using Knoplerfish
 Section Pending
 
+=== Development environment
+Section Pending
+
+==== Eclipse PDE
+Section Pending
+
+==== Bnd Tools
+Section Pending
+
+==== Netbeans
+Section Pending
+
+==== Maven integration
+Section Pending

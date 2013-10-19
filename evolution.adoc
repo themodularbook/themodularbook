@@ -1,5 +1,11 @@
 == Evolution of Programming Paradigm
 
+[discrete]
+=== MANIFEST.MF
+Bundle-Name: Evolution of Programming Paradigm +
+Bundle-SymbolicName: org.greenscape.modularbook.evolution +
+Bundle-Version: 0.0.1 +
+
 === Procedural
 Procedural ((programming)) uses procedures or functions to structure code.
 

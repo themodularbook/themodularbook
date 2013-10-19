@@ -1,16 +1,16 @@
 include::title.adoc[]
 
+include::bookdef.adoc[]
+
+include::copyright.adoc[]
+
 include::dedication.adoc[]
 
 include::preface.adoc[]
 
-include::copyright.adoc[]
-
 include::aboutauthor.adoc[]
 
 include::credits.adoc[]
-
-include::acknowledgement.adoc[]
 
 include::toc.adoc[]
 
@@ -25,5 +25,7 @@ include::proposition.adoc[]
 include::overview.adoc[]
 
 include::settingup.adoc[]
+
+include::gettingstarted.adoc[]
 
 include::index.adoc[]

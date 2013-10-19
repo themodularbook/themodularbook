@@ -1,4 +1,9 @@
 == Overview of OSGi
-Section Pending
+[discrete]
+=== MANIFEST.MF
+Bundle-Name: Overview of OSGi +
+Bundle-SymbolicName: org.greenscape.modularbook.overview +
+Bundle-Version: 0.0.1 +
+
 
 

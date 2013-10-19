@@ -1,0 +1,8 @@
+[discrete]
+== MANIFEST.MF
+Bundle-Name: The Modular Book +
+Bundle-SymbolicName: org.greenscape.modularbook +
+Bundle-Version: {bookversion} +
+Import-Package: The OSGi Specification +
+
+<<<

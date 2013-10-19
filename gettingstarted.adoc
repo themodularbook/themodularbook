@@ -1,0 +1,12 @@
+== Getting Started
+[discrete]
+=== MANIFEST.MF
+Bundle-Name: Getting Started +
+Bundle-SymbolicName: org.greenscape.modularbook.gettingstarted +
+Bundle-Version: 0.0.1 +
+
+=== Hello OSGi!
+Section Pending
+
+
+

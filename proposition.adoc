@@ -1,4 +1,8 @@
 == The OSGi Proposition
-Section Pending
+[discrete]
+=== MANIFEST.MF
+Bundle-Name: The OSGi Proposition +
+Bundle-SymbolicName: org.greenscape.modularbook.proposition +
+Bundle-Version: 0.0.1 +
 
 
