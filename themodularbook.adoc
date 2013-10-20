@@ -28,4 +28,6 @@ include::settingup.adoc[]
 
 include::gettingstarted.adoc[]
 
+include::services.adoc[]
+
 include::index.adoc[]
