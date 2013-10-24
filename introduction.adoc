@@ -1,11 +1,14 @@
 == Introduction
-Section Pending
+
+<<<
 
 [discrete]
 === MANIFEST.MF
 Bundle-Name: Introduction +
 Bundle-SymbolicName: org.greenscape.modularbook.introduction +
 Bundle-Version: 0.0.1 +
+
+<<<
 
 === Whom This Book Is For
 Section Pending

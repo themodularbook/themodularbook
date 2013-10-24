@@ -1,8 +1,11 @@
 == History of OSGi
+
+<<<
+
 [discrete]
 === MANIFEST.MF
 Bundle-Name: History of OSGi +
 Bundle-SymbolicName: org.greenscape.modularbook.history +
 Bundle-Version: 0.0.1 +
 
-
+<<<

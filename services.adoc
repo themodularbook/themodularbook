@@ -1,9 +1,14 @@
 == Services, services
+
+<<<
+
 [discrete]
 === MANIFEST.MF
 Bundle-Name: Services, services +
 Bundle-SymbolicName: org.greenscape.modularbook.services +
 Bundle-Version: 0.0.1 +
+
+<<<
 
 === OSGi Services 
 Section Pending
