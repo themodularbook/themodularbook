@@ -1,19 +1,26 @@
 == Setting up the environment
+
+<<<
+
 [discrete]
 === MANIFEST.MF
 Bundle-Name: Setting up the environment +
 Bundle-SymbolicName: org.greenscape.modularbook.settingup +
 Bundle-Version: 0.0.1 +
 
+<<<
+
+In this chapter, we will cover the installation of different OSGi frameworks and quickly
+cover its contents. Then we'll give it a try to make sure it's well installed.
 
 === Runtime environment
-Section Pending
+Since OSGi is based on Java, we will need a Java Runtime Environment (JRE) to run any of the available implementations. Since we will be developing applications as well, it is better to install the Java Development Kit (JDK). We will be using the Oracle JDK available from Oracle for all of our development needs. For downloading and installing a copy of the Oracle JDK, visit: http://www.oracle.com/technetwork/java/javase/downloads/index.html.  
 
 ==== Using Apache Felix
 Section Pending
 
 ==== Using Eclipse Equinox
-Section Pending
+Equinox is the reference implementation of the core OSGi specification.
 
 ==== Using Knoplerfish
 Section Pending
